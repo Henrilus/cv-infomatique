@@ -17,3 +17,4 @@ Performance basics are covered: assets are minified into single CSS and JS files
 * Follow Jakub: [Twitter](https://twitter.com/jakubdesign), [Bēhance](https://www.behance.net/jakubdesign)
 # jackson-site
 "# cv-infomatique" 
+"# cv-infomatique" 
